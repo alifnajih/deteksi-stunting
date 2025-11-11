@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6p6cta2Av"
+#define BLYNK_TEMPLATE_ID "..............."
 #define BLYNK_TEMPLATE_NAME "MONITORING STUNTING"
-#define BLYNK_AUTH_TOKEN "80s19x0RH829-t6pRzUlQyzAUN5IGK6Q"
+#define BLYNK_AUTH_TOKEN "................-...................."
   
 #include <HX711.h>
 #include <Wire.h>
